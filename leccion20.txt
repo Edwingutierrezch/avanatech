@@ -1,0 +1,27 @@
+## seccion 20 
+##parte 1: declaracion basica de funciones
+#nombre = str(input("Ingrese su nombre:"))
+#def welcome(nombre):
+ #   print(f"welcomw, {nombre} !")
+    
+#welcome(nombre)
+
+#parte2: Funciones con parametros por defecto
+#def area_circulo(radio):
+    #import math 
+#    return math.pi * radio **2
+    
+#radio = int(input("Ingrese radio: "))
+#print("El area es: ",area_circulo(radio))
+
+#parte3:Uso de funciones con parametros arbitrarios
+#def descuento(precio, porcentaje=10):
+ #   precio_final = precio - (precio * porcentaje/100)
+  #  return precio_final
+    
+#precio = int(input("Ingrese el precio: "))
+#porcentaje = input("Ingrese el porcentaje de descuento, (presione Enter para usar el valor predeterminado del 10%")
+
+#if porcentaje:
+ #   porcentaje = float(porcentaje)
+  #  precio_final = descuento(precio, porcentaje)

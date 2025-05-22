@@ -1,0 +1,32 @@
+#entero = 10
+#flotante = 5.5
+#resultado = entero + flotante
+#print("El resultado de la operacion es:", resultado)
+#2
+#frutas =["Pera","Manza","Uva","Banano","Fresa"]
+#frutas.append("Mango")
+#print("la tercera fruta en la lista es:",frutas[2])
+#print("la tercera fruta en la lista es:",frutas)
+#3
+#Libro ={
+#    "titulo": "La isla del tesoro",
+#    "autor": "Robert Louis Stevenson",
+#    "año de publicacion":1883
+#}
+#Libro["Genero"] = "Aventura"
+#print("El autor del libro es:", Libro["autor"])
+#print("El titulo del libro es", Libro["titulo"])
+#4
+#conjunto1 = {1, 2, 3, 4, 5}
+#conjunto2 = {4, 5, 6, 7, 8}
+
+#union = conjunto1 | conjunto2
+#interseccion = conjunto1 & conjunto2
+
+#print("La interseccion entre ambos conjuntos es:",interseccion )
+#5
+#numero_cadena = "125"
+#numero_cadena = int(numero_cadena)
+#resultado = numero_cadena - 10
+#print("El resultado de la operacion es: ",
+#    resultado)
